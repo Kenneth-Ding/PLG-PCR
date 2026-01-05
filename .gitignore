@@ -1,0 +1,11 @@
+# MATLAB
+*.asv
+*.autosave
+*.m~
+*.mex*
+slprj/
+codegen/
+
+# OS
+.DS_Store
+Thumbs.db
