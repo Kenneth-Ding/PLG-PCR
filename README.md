@@ -2,6 +2,12 @@
 
 Point cloud registration (PCR) is a fundamental task in various applications, including 3D scene reconstruction, cultural heritage preservation, and deformation monitoring. This code implements a parallel line group-based PCR algorithm using the weighted Hough transform and the maximal weight bipartite graph matching.
 
+# Requirements
+- MATLAB R2019b or later
+- Computer Vision Toolbox
+- Statistics and Machine Learning Toolbox
+- Image Processing Toolbox
+
 # Dataset
 This code was tested on four datasets:
 
@@ -22,9 +28,3 @@ This code was tested on four datasets:
     <td align="center">Outdoor Scene (Park)</td>
   </tr>
 </table>
-
-# Requirements
-- MATLAB R2019b or later
-- Computer Vision Toolbox
-- Statistics and Machine Learning Toolbox
-- Image Processing Toolbox
