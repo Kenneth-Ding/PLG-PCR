@@ -12,3 +12,4 @@ Point cloud registration (PCR) is a fundamental task in various applications, in
 - MATLAB R2019b or later
 - Computer Vision Toolbox
 - Statistics and Machine Learning Toolbox
+- Image Processing Toolbox
